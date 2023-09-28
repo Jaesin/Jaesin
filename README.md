@@ -1,3 +1,3 @@
 ### Jaesin Mulenex
 
-Senior Developer @ CBS Interactive
+Lead Developer @ Paramount Streaming
